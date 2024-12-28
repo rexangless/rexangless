@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on front end web projects
-- 📫 github - rexangless , email mailto:rexangless@icloud.com
+- 📫 github - rexangless
 - 😄 Pronouns: I/It
 - ⚡ Fun fact: cause and effect
 
