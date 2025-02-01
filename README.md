@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rexangless
 - 👀 I’m interested in web development
-- 🌱 ViTE
+- 🌱 Front End watchful
 - 💞️ I’m looking to collaborate on front end web projects
 - 📫 github - rexangless
 - 😄 Pronouns: I/It
