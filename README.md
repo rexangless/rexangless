@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rexangless
-- 👀 I’m interested in web development
+- 👀 I’m interested in web design
 - 🌱 Front End watchful
 - 💞️ I’m looking to collaborate on front end web projects
-- 📫 github - rexangless
+- 📫 LinkedIn @ https://www.linkedin.com/in/rexangless/
 - 😄 Pronouns: I/It
 - ⚡ Fun fact: cause and effect
 
