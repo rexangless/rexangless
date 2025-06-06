@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rexangless
-- 👀 I’m interested in web design
-- 🌱 Front End watchful
-- 💞️ I’m looking to collaborate on front end web projects
+- 👋 Hi, I am @rexangless
+- 👀 I am interested in Information Security
+- 🌱 I am growing as cybersecurity study
+- 💞️ I like digital forensics
 - 📫 LinkedIn @ https://www.linkedin.com/in/rexangless/
-- 😄 Pronouns: I/It
-- ⚡ Fun fact: cause and effect
+- ⚡ Cause and effect
 
 <!---
 rexangless/rexangless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
