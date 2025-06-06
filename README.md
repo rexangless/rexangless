@@ -1,6 +1,6 @@
 - 👋 Hi, I am @rexangless
 - 👀 I am interested in Information Security
-- 🌱 I am growing as cybersecurity study
+- 🌱 I am growing as a cybersecurity study
 - 💞️ I like digital forensics
 - 📫 LinkedIn @ https://www.linkedin.com/in/rexangless/
 - ⚡ Cause and effect
