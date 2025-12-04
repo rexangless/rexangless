@@ -1,8 +1,8 @@
-- 👋 Hi, I am @rexangless
-- 👀 I am interested in Information Security
-- 🌱 I am growing as a cybersecurity study
-- 💞️ I like digital forensics
-- 📫 LinkedIn @ https://www.linkedin.com/in/rexangless/
+- 👋 Hallo there, I am @rexangless
+- 👀 What does this button do ?!
+- 🌱 placing seeds in soil
+- 💞️ I like digital forensics but, I am focused on web design and other application tendencies. I will make use of HTML, CSS & JS technologies and Python.
+- 📫 No, do not go there yet!!!!
 - ⚡ Cause and effect
 
 <!---
