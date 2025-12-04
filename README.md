@@ -2,7 +2,7 @@
 - 👀 What does this button do ?!
 - 🌱 placing seeds in soil
 - 💞️ I like digital forensics but, I am focused on web design and other application development tendencies. I will make use of HTML, CSS & JS technologies and Python.
-- 📫 No, do not go there yet!!!!
+- 📫 No, do not go there yet!!!! - LinkedIn
 - ⚡ Cause and effect
 
 <!---
